@@ -1,3 +1,14 @@
+/*-------------------------------------------------------*
+*                      FATEC Ipiranga                    *
+* Disciplina: Programaçao Estruturada e Modular          *
+*          Prof. Veríssimo                               *
+*--------------------------------------------------------*
+* Objetivo do Programa: entender o método de ordenação   *
+* insertion sort                                         *
+* Data - 14/05/2025                                      * 
+* Autor: Ruan Victor                                     *
+*--------------------------------------------------------*/
+
 #include <stdio.h>
 
 // Função para preencher o vetor com valores fornecidos pelo usuário
