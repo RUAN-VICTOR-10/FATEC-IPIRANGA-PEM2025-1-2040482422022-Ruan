@@ -6,7 +6,7 @@
 * Objetivo do Programa: entender o método de ordenação   *
 * bubble sort                                            *
 * Data - 14/05/2025                                      * 
-* Autor: Ruan Victor                                     *
+* Autor: Ruan Victor e Caio Fuschillo                    *
 *--------------------------------------------------------*/
 
 
